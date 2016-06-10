@@ -1,4 +1,4 @@
 # Summary
 
-* [GettingStarted](gettingstarted.md)
+* [Introduction](README.md)
 
