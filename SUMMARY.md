@@ -1,4 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
+* [GettingStarted](gettingstarted.md)
+* Index your nodes
 
